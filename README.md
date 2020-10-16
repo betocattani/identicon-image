@@ -1,6 +1,8 @@
-# Identicon
+# Identicon image generator
 
-**TODO: Add description**
+Elixir script to generate images of github using egd from Erlang
+
+
 
 ## Installation
 
